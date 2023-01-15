@@ -1,0 +1,53 @@
+.head{
+    text-align: center;
+    background-color: lightgreen;
+}
+.container{
+    background-color: rgba(0, 181, 197, 0.579);
+    color: rgb(0, 163, 0);
+}
+.sub{
+    text-align: center;
+}
+.dob span{
+    margin-left: 75px;
+}
+.last span{
+    margin-left: 93px;
+}
+.first span{
+    margin-left: 91px;
+}
+.email span{
+    margin-left: 123px;
+}
+.tel span{
+    margin-left: 60px;
+}
+.gender span{
+    margin-left: 108px;
+}
+.address span{
+    margin-left: 110px;
+}
+.city span{
+    margin-left: 134px;
+}
+.pc span{
+    margin-left: 83px;
+}
+.stat span{
+    margin-left: 127px;
+}
+.count span{
+    margin-left: 110px;
+}
+.hobby span{
+    margin-left: 100px;
+}
+.quali span{
+    margin-left: 73px;
+}
+.apply span{
+    margin-left: 20px;
+}
